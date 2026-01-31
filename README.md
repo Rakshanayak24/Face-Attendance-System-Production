@@ -1,6 +1,6 @@
 # Face Authentication Attendance System (Windows Safe)
 
-Python 3.11 compatible | No dlib | No CMake
+Python 3.11 compatible 
 
 ---
 
@@ -103,9 +103,10 @@ python app.py
 Start camera:
 - python app.py
 
-- Press R to register face → enter name.
+- Press r to register face → enter name.
 - Look at the camera → system recognizes you and logs attendance.
 - If recognized again, logs Punch-out.
+- press q to exit.
 
 ## Notes
 - Recommended: normal lighting, stable camera position.
